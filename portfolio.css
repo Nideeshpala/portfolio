@@ -1,0 +1,56 @@
+
+.front{
+ background-image: url(./image/porto.webp);
+ background-repeat: no-repeat; 
+ width: 100%;
+ height: auto;
+
+ }
+ .head{
+    padding: 30px;
+}
+.name{
+    color:white;
+}
+ img{
+    width: 180px;
+ }
+.front .background-image{
+    width: 100%;
+
+}
+.script {
+   color: crimson;
+}
+.row-cards{
+    display: flex;
+    justify-content: space-between;
+}
+@media(max-width:600px){
+.name p{
+    font-size:small;
+    font-weight: bold;
+    padding: 20px;
+}
+}
+h5{
+    padding-top:-100px;
+    color: aqua;
+}
+svg{
+    margin-left: 60px;
+}
+.bag{
+    background-image: url(./image/por2.jpg);
+    background-repeat: no-repeat;
+}
+hr{
+    color:white ;
+}
+.skills h4{
+    color: white;
+}
+.bsg{
+    background-image: url(./image/por6.jpg);
+    background-repeat: no-repeat;
+}
